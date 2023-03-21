@@ -1,1 +1,1 @@
-# java_project
+# java_project 2022 자바 프로젝트 - 산성비 게임 ( 닭을 키우닭!)
